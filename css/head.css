@@ -1,0 +1,28 @@
+.elements {
+  margin: 10vw auto 0 auto;
+  width: 70%;
+}
+
+.element {
+  width: 16vw; height: 16vw;
+  float: left;
+}
+
+.element1, .element2 {
+  margin-right: 6vw;
+}
+
+.element a {
+  position: relative;
+  display: block;
+  height: 100%;
+  border-radius: 100%;
+  font-size: 2vw;
+  color: white; background-color: transparent;
+  text-align: center; line-height: 16vw;
+}
+
+.element a:hover {
+  border: 1px solid white;
+  line-height: 15.8vw;
+}

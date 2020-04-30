@@ -1,0 +1,24 @@
+@media (max-width: 1000px) {
+
+  .element {
+    width: 30vw; height: 30vw;
+    float: none;
+    margin: 0 auto 10vw auto;
+  }
+
+  .element a {
+    line-height: 30vw;
+  }
+
+  .element a:hover {
+    line-height: 29.8vw;
+  }
+
+  .fa-angle-double-up {
+    display: none;
+  }
+
+  .work img {
+    width: 100%;
+  }
+}

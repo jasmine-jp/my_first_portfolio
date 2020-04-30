@@ -1,0 +1,24 @@
+.fab {
+  margin-top: -10vw;
+  margin-bottom: 5vw;
+  font-size: 5vw;
+  color: gray;
+}
+
+.fab:hover {
+  color: white;
+}
+
+.fa-twitter {
+  margin-left: 10vw;
+}
+
+ul {
+  margin-bottom: 10vw;
+}
+
+li {
+  font-size: 1.5vw;
+  color: white;
+  margin-top: 1vw;
+}
