@@ -9,7 +9,7 @@ $(function() {
       scrollTop: 700
     }, 500);
   });
-  $('.gameFolder').click(function() {
+  $('.appsFolder').click(function() {
     $('html, body').animate({
       scrollTop: 1500
     }, 500);
